@@ -14,7 +14,7 @@ This Python-based web application allows users to interact with a fragrance expe
 *   **Tech Stack:** Python, Flask, AJAX, APIs, HTML, CSS
 *   **Features:**
     *   Chatbot interaction
-    *   Email functionality
+    *   Email Functionality
     *   Monetization (PayPal, Google AdSense)
 
 ## Skills and Expertise
