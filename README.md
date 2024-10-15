@@ -30,7 +30,7 @@ Generative AI Fundamentals from Databricks
 Cred ID: 116537670
 Google Advanced Data Analytics Certificate
 Credential ID 5LWRUXKNKL6E
-Foundations of Data Science From Google
+Foundations of sata Science From Google
 Credential ID YQ6KFTAMTHRB
 Google Cloud Foundational Certification
 https://www.cloudskillsboost.google/public_profiles/a421a74e-d0f5-4e4a- 8a89-8d18c0ec64f7
