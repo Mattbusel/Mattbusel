@@ -28,7 +28,7 @@ This Python-based web application allows users to interact with a fragrance expe
 
 Generative AI Fundamentals from Databricks
 Cred ID: 116537670
-Google Advanced Data Analytics Certificate
+Google Advanced Data Analytics Certifcate
 Credential ID 5LWRUXKNKL6E
 Foundations of sata Science From Google
 Credential ID YQ6KFTAMTHRB
