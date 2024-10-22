@@ -19,7 +19,7 @@ This Python-based web application allows users to interact with a fragrance expe
 
 ## Skills and Expertise
 
-*   **Programming Languages:** Python, 
+*   **Programming Languages:** Pytho, 
 *   **Web Development:** Flask, HTML, CSS, JavaScript, 
 *   **AI and Machine Learning:**
 *   **Other Skill:** Cloud services and proxy integration
