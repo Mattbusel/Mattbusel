@@ -6,40 +6,30 @@ I'm a multi-disciplinary technologist driven by curiosity, bold ideas, and a dee
 My work spans across the frontier of AI/ML, quantum cognition, and computational biology, and I’m actively building tools, prototypes, and frameworks that challenge the limits of current hardware and software paradigms.
 
 Featured Projects
- Quantum Neural Network Model: The Future of AI Cognition
-A speculative project applying quantum mechanics principles—like superposition and entanglement—to neural networks. This model aims to mimic human cognition and accelerate learning using quantum parallelism.
-
-Status: Early prototype | Stack: Python, Qiskit, NumPy
-Focus: Quantum AI, Cognitive Architecture, Human-like reasoning
-→ View Repository
+Quantum Neural Network Model
+A speculative AI model inspired by quantum mechanics, designed to accelerate learning via quantum parallelism.
+Stack: Python, Qiskit, NumPy
+→ View Repo
 
 Mycelium-Based AI Integration
-Explores the intersection of synthetic biology and artificial intelligence by creating a biocomputational substrate. This project imagines giving AI a "body" made of living, adaptive fungal networks.
+Explores the fusion of synthetic biology and AI, using mycelium as a biocomputational substrate.
+Stack: Python, BioPython, Raspberry Pi
+→ View Repo
 
-Status: Research and prototyping | Stack: Python, BioPython, Raspberry Pi
-Focus: Synthetic Biology, AI Embodiment, Nature-based Computing
-→ View Repository
+SEC Filing Analyzer Tool
+ML pipeline for detecting financial anomalies and forecasting market shifts from SEC filings.
+Stack: Python, Pandas, Scikit-learn, Flask
+→ View Repo
 
- SEC Filing Analyzer Tool
-A production-grade machine learning pipeline for detecting financial anomalies and forecasting market shifts using SEC filings and corporate data.
+Context-First AGI: Cognitive Context Engine
+A new AGI architecture focusing on context and long-term reasoning, diverging from traditional token-based LLMs.
+Stack: Python, Transformers
+→ View Repo
 
-Status: Actively developed SaaS prototype | Stack: Python, Pandas, Scikit-learn, Flask
-Focus: Financial AI, Anomaly Detection, Data Engineering
-→ View Repository
-
-Context-First AGI: Cognitive Context Engine (CCE)
-A radical departure from token-predictive LLMs. CCE is a conceptual AGI architecture that models context as the first-class citizen, enabling persistent memory, adaptive thought, and long-horizon reasoning.
-
-Status: Whitepaper + conceptual prototype | Stack: Python, Transformers
-Focus: AGI, Long-Term Memory, Language + Context Integration
-→ View Repository
-
- Project JarvisBox
-A voice-activated, multimodal AI assistant powered by LLMs and integrated hardware—bringing a real-world "JARVIS" system closer to reality.
-
-Status: Working prototype | Stack: Python, PyTorch, Whisper, OpenAI API
-Focus: Voice Interfaces, LLMs, Hardware Integration
-→ View Repository
+Project JarvisBox
+Voice-activated AI assistant prototype integrating LLMs with hardware.
+Stack: Python, PyTorch, Whisper, OpenAI API
+→ View Repo
 
  Core Skills & Specializations
 Languages: Python, HTML/CSS, JavaScript
@@ -54,14 +44,6 @@ Special Interests: Synthetic Biology + AI, Quantum Cognition, AGI Architecture, 
 
 Dev Tools: Git, Docker, Linux, APIs, Cloud Functions
 
-Credentials & Education
-Generative AI Fundamentals – Databricks (Credential ID: 116537670)
-
-Google Advanced Data Analytics – Coursera (Credential ID: 5LWRUXKNKL6E)
-
-Foundations of Data Science – Google (Credential ID: YQ6KFTAMTHRB)
-
-Google Cloud Digital Leader – View Profile
 
 Let’s Build Something
 Got a wild idea? Want to jam on AI, synthetic biology, or future cognition? Reach out.
