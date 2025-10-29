@@ -2,7 +2,7 @@ I’m an AI/ML engineer and founder focused on building the next layer of intell
 
 My work bridges Rust-native performance with large-scale model architecture. I design inference pipelines, latency-adaptive schedulers, and LLM optimization frameworks that push models closer to real-time intelligence.
 
-Before Rust, I worked primarily in Python, building ML pipelines for finance, signal modeling, and context-aware AGI prototypes. That foundation in data and systems design evolved into Tensorust, where I now focus on production-grade Rust tools for high-performance inference.
+Before Rust, I worked primarily in Python, building ML pipelines for finance, and signal modeling. That foundation in data and systems design evolved into Tensorust, where I now focus on production-grade Rust tools for high-performance inference.
 
 Featured Projects
 
