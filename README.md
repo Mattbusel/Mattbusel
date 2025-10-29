@@ -1,52 +1,30 @@
- I'm Matthew Charles Busel
- 
- About Me
-I'm a multi-disciplinary technologist driven by curiosity, bold ideas, and a deep belief in what software can become when fused with cutting-edge science. With a background rooted in Python, machine learning, and backend development, I specialize in turning speculative concepts into tangible code—whether it’s designing cognitive engines, quantum neural nets, or exploring bio-AI interfaces using mycelium.
+I’m an AI/ML engineer and founder focused on building the next layer of intelligence infrastructure — systems where speed, safety, and cognition meet.
 
-My work spans across the frontier of AI/ML, quantum cognition, and computational biology, and I’m actively building tools, prototypes, and frameworks that challenge the limits of current hardware and software paradigms.
+My work bridges Rust-native performance with large-scale model architecture. I design inference pipelines, latency-adaptive schedulers, and LLM optimization frameworks that push models closer to real-time intelligence.
+
+Before Rust, I worked primarily in Python — building ML pipelines for finance, signal modeling, and context-aware AGI prototypes. That foundation in data and systems design evolved into Tensorust, where I now focus on production-grade Rust tools for high-performance inference.
 
 Featured Projects
-Quantum Neural Network Model
-A speculative AI model inspired by quantum mechanics, designed to accelerate learning via quantum parallelism.
-Stack: Python, Qiskit, NumPy
-→ View Repo
 
-Mycelium-Based AI Integration
-Explores the fusion of synthetic biology and AI, using mycelium as a biocomputational substrate.
-Stack: Python, BioPython, Raspberry Pi
-→ View Repo
+Every Other Token – Rust-based LLM optimizer reducing inference latency by 48%.
 
-SEC Filing Analyzer Tool
-ML pipeline for detecting financial anomalies and forecasting market shifts from SEC filings.
-Stack: Python, Pandas, Scikit-learn, Flask
-→ View Repo
+LLM Affector – runtime controller for token generation and contextual flow.
 
-Context-First AGI: Cognitive Context Engine
-A new AGI architecture focusing on context and long-term reasoning, diverging from traditional token-based LLMs.
-Stack: Python, Transformers
-→ View Repo
+Adaptive Task Scheduler – distributed orchestration layer for multi-model pipelines.
 
-Project JarvisBox
-Voice-activated AI assistant prototype integrating LLMs with hardware.
-Stack: Python, PyTorch, Whisper, OpenAI API
-→ View Repo
+Mycelium-AI Platform – biological sensing + AI integration for environmental feedback loops.
 
- Core Skills & Specializations
-Languages: Python, HTML/CSS, JavaScript
+Core Stack
+Rust, Python, PyTorch, Hugging Face Transformers, Flask, FastAPI, Docker, Linux, PostgreSQL
 
-Frameworks: Flask, FastAPI, HuggingFace Transformers
+Focus Areas
+LLM infrastructure, inference optimization, cognitive systems, Rust AI tooling
 
-AI/ML: Scikit-learn, TensorFlow, PyTorch, Prompt Engineering, LangChain
+I like systems that scale under pressure — and the people who help build them.
+If you’re experimenting at the edge of AI infrastructure, I’d love to connect.
 
-Quantum: IBM Qiskit (Beginner+)
-
-Special Interests: Synthetic Biology + AI, Quantum Cognition, AGI Architecture, Real-Time Financial Forecasting
-
-Dev Tools: Git, Docker, Linux, APIs, Cloud Functions
+📧 mattbusel@gmail.com
+ | 🌐 linkedin.com/in/matthewbusel
+ | 🦀 github.com/Mattbusel
 
 
-Let’s Build Something
-Got a wild idea? Want to jam on AI, synthetic biology, or future cognition? Reach out.
-
- Email: mattbusel@gmail.com
- LinkedIn: matthewbusel
