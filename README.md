@@ -23,9 +23,7 @@ LLM infrastructure, inference optimization, cognitive systems, Rust AI tooling
 I like systems that scale under pressure, and the people who help build them.
 If you’re experimenting at the edge of AI infrastructure, I’d love to connect.
 
-https://github-readme-stats.vercel.app/api?username=mattbusel&include_all_commits=true&show_icons=true&theme=tokyonight
-
-
+https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/index.js
 
 
 
