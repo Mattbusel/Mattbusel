@@ -23,7 +23,8 @@ LLM infrastructure, inference optimization, cognitive systems, Rust AI tooling
 I like systems that scale under pressure, and the people who help build them.
 If you’re experimenting at the edge of AI infrastructure, I’d love to connect.
 
-![Stars](https://img.shields.io/github/stars/mattbusel/every-other-token?style=flat)
+![Total Stars](https://img.shields.io/github/stars/mattbusel?style=flat)
+
 
 
 
