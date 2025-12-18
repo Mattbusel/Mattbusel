@@ -27,9 +27,6 @@ If you’re experimenting at the edge of AI infrastructure, I’d love to connec
 
 
 
-
-
-
 mattbusel@gmail.com
 linkedin.com/in/matthewbusel
 medium.com/@mattbusel
