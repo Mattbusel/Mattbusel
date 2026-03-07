@@ -10,19 +10,19 @@ Building the primitive layer for production AI systems.
 
 ## Projects
 
-| | Repo | What it does |
+| Stars | Repo | What it does |
 |---|---|---|
-| **45â˜…** | [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Multi-agent LLM orchestration. Ran 24 simultaneous Claude Code agents. Circuit breaker, dedup, retry, backpressure. Self-improving loop live. |
-| **23â˜…** | [Every-Other-Token](https://github.com/Mattbusel/Every-Other-Token) | Intercepts every other token mid-generation, scores confidence, visualizes perplexity in real time. Research tool for LLM interpretability. |
-| **14â˜…** | [LLM-Hallucination-Detection-Script](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) | Framework-agnostic Python + Rust toolkit for detecting hallucinations in LLM outputs. |
-| **6â˜…** | [llm-cpp](https://github.com/Mattbusel/llm-cpp) | 26 single-header C++20 libraries for LLM infrastructure. Zero dependencies. Drop in what you need. |
-| **5â˜…** | [Reddit-Options-Trader-ROT](https://github.com/Mattbusel/Reddit-Options-Trader-ROT-) | Financial intelligence platform. 200+ users across 46 countries. Validated signals: MASI +34%, ZIM +25%, OLB +137%. |
+| 45 | [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Multi-agent LLM orchestration. Ran 24 simultaneous Claude Code agents. Circuit breaker, dedup, retry, backpressure. Self-improving loop live. |
+| 23 | [Every-Other-Token](https://github.com/Mattbusel/Every-Other-Token) | Intercepts every other token mid-generation, scores confidence, visualizes perplexity in real time. Research tool for LLM interpretability. |
+| 14 | [LLM-Hallucination-Detection-Script](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) | Framework-agnostic Python + Rust toolkit for detecting hallucinations in LLM outputs. |
+| 6 | [llm-cpp](https://github.com/Mattbusel/llm-cpp) | 26 single-header C++20 libraries for LLM infrastructure. Zero dependencies. Drop in what you need. |
+| 5 | [Reddit-Options-Trader-ROT](https://github.com/Mattbusel/Reddit-Options-Trader-ROT-) | Financial intelligence platform. 200+ users across 46 countries. Validated signals: MASI +34%, ZIM +25%, OLB +137%. |
 
 ---
 
 ## Rust Primitive Layer
 
-[rust-crates](https://github.com/Mattbusel/rust-crates) â€” 10 production libraries, all used inside tokio-prompt-orchestrator:
+[rust-crates](https://github.com/Mattbusel/rust-crates) - 10 production libraries, all used inside tokio-prompt-orchestrator:
 
 | Crate | What it does |
 |---|---|
@@ -41,9 +41,9 @@ Building the primitive layer for production AI systems.
 
 ## Finance + Research
 
-**[Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling)** â€” What if price velocity has a speed limit? Lorentz transforms on OHLCV data. DOI: 10.5281/zenodo.18639919
+**[Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling)** - What if price velocity has a speed limit? Lorentz transforms on OHLCV data. DOI: 10.5281/zenodo.18639919
 
-**[LLMTokenStreamQuantEngine](https://github.com/Mattbusel/LLMTokenStreamQuantEngine)** â€” C++ engine that maps LLM token semantics to real-time trade signals at sub-second resolution.
+**[LLMTokenStreamQuantEngine](https://github.com/Mattbusel/LLMTokenStreamQuantEngine)** - C++ engine that maps LLM token semantics to real-time trade signals at sub-second resolution.
 
 12 DOI-indexed papers on Zenodo. Active DARPA ERIS submission.
 
@@ -51,6 +51,6 @@ Building the primitive layer for production AI systems.
 
 ## Stack
 
-Rust Â· C++ Â· Python Â· Tokio Â· WebAssembly Â· CRDT Â· MCP
+Rust / C++ / Python / Tokio / WebAssembly / CRDT / MCP
 
-New York Â· [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) Â· mattbusel@gmail.com Â· [medium.com/@mattbusel](https://medium.com/@mattbusel)
+New York / [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) / mattbusel@gmail.com / [medium.com/@mattbusel](https://medium.com/@mattbusel)
