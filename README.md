@@ -35,14 +35,11 @@ Rust · C++ · Python · Tokio · WebAssembly · CRDT · MCP
 
 ---
 
-New York · [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) · mattbusel@gmail.com
+New York · [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) · mattbusel@gmail.com medium.com/@mattbusel
 
 ![Total Stars](https://img.shields.io/github/stars/mattbusel?style=flat)
 
 
 
-mattbusel@gmail.com
-linkedin.com/in/matthewbusel
-medium.com/@mattbusel
 
 
