@@ -1,27 +1,41 @@
-I’m an AI/ML engineer and founder focused on building the next layer of intelligence infrastructure, systems where speed, safety, and cognition meet.
+# Matthew Charles Busel
 
-My work bridges Rust-native performance with large-scale model architecture. I design inference pipelines, latency-adaptive schedulers, and LLM optimization frameworks that push models closer to real-time intelligence.
+Building the primitive layer for production AI systems.
 
-Before Rust, I worked primarily in Python, building ML pipelines for finance, and signal modeling. That foundation in data and systems design evolved into Tensorust, where I now focus on production-grade Rust tools for high-performance inference.
+319,000+ lines of code across Rust, C++, and Python. 
+---
 
-Featured Projects
+## Infrastructure
 
-Every Other Token – Rust-based LLM optimizer reducing inference latency by 48%.
+**[tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator)** — Multi-agent LLM orchestration in Rust. Runs 24 simultaneous Claude Code agents. Sub-microsecond resilience primitives. Self-improving loop running live.
 
-LLM Affector – runtime controller for token generation and contextual flow.
+**[rust-crates](https://github.com/Mattbusel/rust-crates)** — 10 production Rust primitives for AI agents and financial systems. Zero panics. 755 tests. Typed errors throughout.
 
-Adaptive Task Scheduler - distributed orchestration layer for multi-model pipelines.
+**[llm-cpp](https://github.com/Mattbusel/llm-cpp)** — 26 single-header C++ libraries for LLM integration. Zero dependencies. Drop in what you need.
 
-Mycelium-AI Platform – biological sensing + AI integration for environmental feedback loops.
+---
 
-Core Stack
-Rust, Python, PyTorch, Hugging Face Transformers, Flask, FastAPI, Docker, Linux, PostgreSQL
+## Finance
 
-Focus Areas
-LLM infrastructure, inference optimization, cognitive systems, Rust AI tooling
+**[Reddit-Options-Trader-ROT](https://github.com/Mattbusel/Reddit-Options-Trader-ROT-)** — Financial intelligence platform built in 9 days. 200+ active users across 46 countries. Validated signals: MASI +34%, ZIM +25%, OLB +137%. First financial intelligence MCP server.
 
-I like systems that scale under pressure, and the people who help build them.
-If you’re experimenting at the edge of AI infrastructure, I’d love to connect.
+**[Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling)** — What if price velocity has a speed limit? Lorentz transforms applied to OHLCV data. DOI: 10.5281/zenodo.18639919
+
+---
+
+## Research
+
+12 DOI-indexed papers on Zenodo. Active DARPA ERIS submission.
+
+---
+
+## Stack
+
+Rust · C++ · Python · Tokio · WebAssembly · CRDT · MCP
+
+---
+
+New York · [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) · mattbusel@gmail.com
 
 ![Total Stars](https://img.shields.io/github/stars/mattbusel?style=flat)
 
