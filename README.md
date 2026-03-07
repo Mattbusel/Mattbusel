@@ -54,3 +54,5 @@ Building the primitive layer for production AI systems.
 Rust / C++ / Python / Tokio / WebAssembly / CRDT / MCP
 
 New York / [linkedin.com/in/matthewbusel](https://linkedin.com/in/matthewbusel) / mattbusel@gmail.com / [medium.com/@mattbusel](https://medium.com/@mattbusel)
+
+![Total Stars](https://img.shields.io/github/stars/Mattbusel?style=flat&label=Total%20Stars&color=gold)
