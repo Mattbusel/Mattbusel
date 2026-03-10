@@ -2,7 +2,7 @@
 
 Building the primitive layer for production AI systems.
 
-319,000+ lines of code across Rust, C++, and Python.
+642,000+ lines of code across Rust, C++, and Python.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Mattbusel/tokio-prompt-orchestrator,Mattbusel/Every-Other-Token,Mattbusel/LLM-Hallucination-Detection-Script,Mattbusel/llm-cpp&type=Date)](https://star-history.com/#Mattbusel/tokio-prompt-orchestrator&Mattbusel/Every-Other-Token&Mattbusel/LLM-Hallucination-Detection-Script&Mattbusel/llm-cpp)
 
@@ -22,7 +22,7 @@ Building the primitive layer for production AI systems.
 
 ## Rust Primitive Layer
 
-[rust-crates](https://github.com/Mattbusel/rust-crates) - 10 production libraries, all used inside tokio-prompt-orchestrator:
+[rust-crates](https://github.com/Mattbusel/rust-crates) — 10 production libraries, all used inside tokio-prompt-orchestrator:
 
 | Crate | What it does |
 |---|---|
@@ -41,9 +41,9 @@ Building the primitive layer for production AI systems.
 
 ## Finance + Research
 
-**[Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling)** - What if price velocity has a speed limit? Lorentz transforms on OHLCV data. DOI: 10.5281/zenodo.18639919
+**[Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling)** — What if price velocity has a speed limit? Lorentz transforms on OHLCV data. VR=1.27×, Bartlett p=6×10⁻¹⁶. DOI: 10.5281/zenodo.18639919
 
-**[LLMTokenStreamQuantEngine](https://github.com/Mattbusel/LLMTokenStreamQuantEngine)** - C++ engine that maps LLM token semantics to real-time trade signals at sub-second resolution.
+**[LLMTokenStreamQuantEngine](https://github.com/Mattbusel/LLMTokenStreamQuantEngine)** — C++ engine that maps LLM token semantics to real-time trade signals at sub-second resolution.
 
 12 DOI-indexed papers on Zenodo. Active DARPA ERIS submission.
 
