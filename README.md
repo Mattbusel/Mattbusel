@@ -12,10 +12,10 @@ Building the primitive layer for production AI systems.
 
 | Stars | Repo | What it does |
 |---|---|---|
-| 45 | [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Multi-agent LLM orchestration. Ran 24 simultaneous Claude Code agents. Circuit breaker, dedup, retry, backpressure. Self-improving loop live. |
+| 47 | [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Multi-agent LLM orchestration. Ran 24 simultaneous Claude Code agents. Circuit breaker, dedup, retry, backpressure. Self-improving loop live. |
 | 23 | [Every-Other-Token](https://github.com/Mattbusel/Every-Other-Token) | Intercepts every other token mid-generation, scores confidence, visualizes perplexity in real time. Research tool for LLM interpretability. |
 | 14 | [LLM-Hallucination-Detection-Script](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) | Framework-agnostic Python + Rust toolkit for detecting hallucinations in LLM outputs. |
-| 6 | [llm-cpp](https://github.com/Mattbusel/llm-cpp) | 26 single-header C++20 libraries for LLM infrastructure. Zero dependencies. Drop in what you need. |
+| 7 | [llm-cpp](https://github.com/Mattbusel/llm-cpp) | 26 single-header C++20 libraries for LLM infrastructure. Zero dependencies. Drop in what you need. |
 | 5 | [Reddit-Options-Trader-ROT](https://github.com/Mattbusel/Reddit-Options-Trader-ROT-) | Financial intelligence platform. 200+ users across 46 countries. Validated signals: MASI +34%, ZIM +25%, OLB +137%. |
 
 ---
