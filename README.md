@@ -2,7 +2,7 @@
 
 Building the primitive layer for production AI systems.
 
- 800K+ lines of code across Rust, C++, and Python.
+1.2m lines of code across Rust, C++, and Python.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Mattbusel/tokio-prompt-orchestrator,Mattbusel/Every-Other-Token,Mattbusel/LLM-Hallucination-Detection-Script,Mattbusel/llm-cpp&type=Date)](https://star-history.com/#Mattbusel/tokio-prompt-orchestrator&Mattbusel/Every-Other-Token&Mattbusel/LLM-Hallucination-Detection-Script&Mattbusel/llm-cpp)
 
