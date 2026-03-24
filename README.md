@@ -1,6 +1,6 @@
 # Matthew Charles Busel
 
-Building the primitive layer for production AI systems — and the engine that renders mathematics.
+Building the primitive layer for production AI systems, and the engine that renders mathematics.
 
 **1.6M+ lines of code** across Rust, C++, and Python.
 
