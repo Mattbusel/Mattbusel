@@ -71,6 +71,8 @@ A roguelike where every outcome runs through a chain of real mathematical functi
 
 15 DOI-indexed papers on Zenodo under Oxidized Archive. Active DARPA ERIS submission. Google Scholar indexed. Academia.edu top 8.1% in Symbolic Computation.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattbusel&layout=compact&theme=tokyonight)](https://github.com/Mattbusel)
 ---
 
 ## Stack
