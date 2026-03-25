@@ -74,7 +74,7 @@ A roguelike where every outcome runs through a chain of real mathematical functi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattbusel&layout=compact&theme=tokyonight)](https://github.com/Mattbusel)
 
-[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mattbusel&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/Mattbusel)
+[![GitHub Stars](https://img.shields.io/github/stars/Mattbusel?style=for-the-badge&logo=github&label=Total%20Stars&color=gold)](https://github.com/Mattbusel)
 ---
 
 ## Stack
