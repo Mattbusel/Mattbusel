@@ -10,8 +10,8 @@ Building the primitive layer for production AI systems, and the engine that rend
 
 | Stars | Repo | What it does |
 |-------|------|-------------|
-| — | **proof-engine** | Mathematical rendering engine. 262K+ lines of Rust. PBR lighting, force field physics, amorphous entities, shader graph, GPU compute, procedural music, fluid simulation, ECS, scripting VM, behavior trees, rollback netcode. Published on crates.io. |
-| — | **chaos-rpg** | Commercial roguelike where every outcome runs through real mathematical functions. 108K+ lines. 12 classes, 12 bosses, 820-node passive tree, 4 frontends. Runs on Proof Engine. |
+| — | **proof-engine** | Mathematical rendering engine. 460k+ lines of Rust. PBR lighting, force field physics, amorphous entities, shader graph, GPU compute, procedural music, fluid simulation, ECS, scripting VM, behavior trees, rollback netcode. Published on crates.io. | https://github.com/Mattbusel/proof-engine
+| — | **chaos-rpg** | Commercial roguelike where every outcome runs through real mathematical functions. 108K+ lines. 12 classes, 12 bosses, 820-node passive tree, 4 frontends. Runs on Proof Engine. |https://github.com/Mattbusel/chaos-rpg
 | 47 | **tokio-prompt-orchestrator** | Multi-agent LLM orchestration. Ran 24 simultaneous Claude Code agents. Circuit breaker, dedup, retry, backpressure. Self-improving loop live. |
 | 23 | **Every-Other-Token** | Intercepts every other token mid-generation, scores confidence, visualizes perplexity in real time. Research tool for LLM interpretability. |
 | 14 | **LLM-Hallucination-Detection-Script** | Framework-agnostic Python + Rust toolkit for detecting hallucinations in LLM outputs. |
