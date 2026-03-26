@@ -2,7 +2,9 @@
 
 Building the primitive layer for production AI systems, and the engine that renders mathematics.
 
-**2m+ lines of code** across Rust, C++, and Python.
+&
+
+Creating meaningful visual and auditory representations of math for the world to enjoy.
 
 ---
 
@@ -22,7 +24,7 @@ Building the primitive layer for production AI systems, and the engine that rend
 
 ## Proof Engine
 
-A mathematical rendering engine for Rust. **262,000+ lines. 283 source files. Solo-built. MIT licensed.**
+A mathematical rendering engine for Rust.
 
 The engine does not render graphics. It renders mathematics. Particles follow real differential equations. Damage hits spawn gravitational force fields. Entities are glyph clusters held together by physics that disintegrate as they take damage.
 
