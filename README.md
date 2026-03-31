@@ -1,4 +1,4 @@
-# Matthew Charles Busel
+# Matthew Charles Vladislav Busel
 
 Building the primitive layer for production AI systems, and the engine that renders mathematics.
 
