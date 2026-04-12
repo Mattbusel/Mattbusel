@@ -1,4 +1,4 @@
-# Matthew Charles Vladislav Busel
+# Matthew Charles Vladislav Busel Author of Project Event Horizon
 
 Building the primitive layer for production AI systems, and the engine that renders mathematics.
 
