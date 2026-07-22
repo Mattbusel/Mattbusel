@@ -1,9 +1,5 @@
 Matthew Charles Vladislav Busel
 
-> AI makes shit up. I make it cite sources.
->
-> PhDs only. Dropouts by referral.
-
 Founder of [TensoRust](https://tensorust-site.vercel.app/), the evidence layer for AI.
 
 46M+ cleaned, provenance-linked public records across research, companies, contracts, cybersecurity, drugs, regulation, and engineering.
