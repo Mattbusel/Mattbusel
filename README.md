@@ -4,6 +4,9 @@ I build LLM infrastructure in Rust and C++, quant tooling, math-driven engines, 
 
 [![GitHub Stars](https://img.shields.io/github/stars/Mattbusel?style=flat&logo=github&label=total%20stars&color=gold)](https://github.com/Mattbusel?tab=repositories&sort=stargazers)
 
+**Hire me to build your app.** I design, build and ship native iOS apps and AI software for clients, from prototype to App Store launch. Fixed prices: prototype sprints from $9,500, App Store launches from $28,000, $225/hour for advisory.
+[**See services and pricing →**](https://mattbusel.github.io/) · [Email](mailto:mattbusel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/matthewbusel/)
+
 ## LLM infrastructure in Rust
 
 | Repo | What it is |
@@ -73,3 +76,7 @@ Support and privacy pages for the apps live in [app-pages](https://github.com/Ma
 ## Elsewhere
 
 [Tensorust](https://tensorust-site.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matthewbusel/) · [Medium](https://medium.com/@mattbusel)
+
+## Work with me
+
+Have an app you want built? I take a small number of client projects at a time: [services and pricing](https://mattbusel.github.io/), [mattbusel@gmail.com](mailto:mattbusel@gmail.com), [LinkedIn](https://www.linkedin.com/in/matthewbusel/).
