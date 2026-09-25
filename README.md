@@ -1,63 +1,75 @@
-Matthew Charles Vladislav Busel
+# Matt Busel
 
-Founder of [TensoRust](https://tensorust-site.vercel.app/), the evidence layer for AI.
+I build LLM infrastructure in Rust and C++, quant tooling, math-driven engines, and iOS apps that I ship from a Windows PC. Founder of [Tensorust](https://tensorust-site.vercel.app/). New York.
 
-46M+ cleaned, provenance-linked public records across research, companies, contracts, cybersecurity, drugs, regulation, and engineering.
+[![GitHub Stars](https://img.shields.io/github/stars/Mattbusel?style=flat&logo=github&label=total%20stars&color=gold)](https://github.com/Mattbusel?tab=repositories&sort=stargazers)
 
-Sources. Hashes. Confidence. Lineage. Receipts for machines.
+## LLM infrastructure in Rust
 
-## Things I built because sleep is apparently optional
-
-| Project | What happened |
+| Repo | What it is |
 |---|---|
-| [TensoRust](https://tensorust-site.vercel.app/) | AI answers backed by traceable evidence instead of spiritual confidence. |
-| [proof-engine](https://github.com/Mattbusel/proof-engine) | 460K+ lines of Rust. A mathematical rendering engine with physics, GPU compute, procedural music, scripting, multiplayer, and enough systems to concern a project manager. |
-| [chaos-rpg](https://github.com/Mattbusel/chaos-rpg) | 108K+ lines of Rust. Every outcome runs through real mathematical functions because normal random numbers lacked aura. |
-| [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Ran 24 Claude Code agents simultaneously without letting them eat the machine. Mostly. |
-| [Every-Other-Token](https://github.com/Mattbusel/Every-Other-Token) | Intercepts every other token, scores confidence, and watches the model panic in real time. |
-| [LLM-Hallucination-Detection-Script](https://github.com/Mattbusel/LLM-Hallucination-Detection-Script) | Detects when an LLM's source is basically "trust me bro." |
-| [llm-cpp](https://github.com/Mattbusel/llm-cpp) | 26 dependency-free C++20 headers for LLM infrastructure. Take what you need. Leave before it becomes a framework. |
-| [Reddit-Options-Trader-ROT](https://github.com/Mattbusel/Reddit-Options-Trader-ROT) | Financial intelligence used by 200+ people across 46 countries. The internet was already gambling. I added instrumentation. |
+| [tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) | Multi-core, Tokio-native orchestration for LLM pipelines. On [crates.io](https://crates.io/crates/tokio-prompt-orchestrator). |
+| [agent-runtime](https://github.com/Mattbusel/agent-runtime) | Tokio agent runtime: orchestration, memory, knowledge graph and a ReAct loop in one crate. |
+| [Every-Other-Token](https://github.com/Mattbusel/Every-Other-Token) | Real-time LLM stream interceptor for token-level interaction research. On [crates.io](https://crates.io/crates/every-other-token). |
+| [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | Terminal dashboard (ratatui) for LLM token spend, cost per request and projected monthly bills. On [crates.io](https://crates.io/crates/llm-cost-dashboard). |
+| [rust-crates](https://github.com/Mattbusel/rust-crates) | Index of my Rust libraries for AI agents and financial systems. |
 
-## Proof Engine
+## llm-cpp: single-header C++ for LLM apps
 
-It does not render graphics. It renders mathematics.
+[**llm-cpp**](https://github.com/Mattbusel/llm-cpp) is the umbrella for 26 zero-dependency, single-header C++ libraries. Copy one `.hpp` into your project and use it. A few of them:
 
-Particles follow differential equations. Damage creates gravitational force fields. Glyph clusters are held together by physics and disintegrate as they lose health.
+[llm-stream](https://github.com/Mattbusel/llm-stream) (streaming OpenAI and Anthropic responses) ·
+[llm-chat](https://github.com/Mattbusel/llm-chat) ·
+[llm-agent](https://github.com/Mattbusel/llm-agent) (tool calling with C++ lambdas) ·
+[llm-retry](https://github.com/Mattbusel/llm-retry) ·
+[llm-cache](https://github.com/Mattbusel/llm-cache) ·
+[llm-cost](https://github.com/Mattbusel/llm-cost) ·
+[llm-format](https://github.com/Mattbusel/llm-format) ·
+[llm-json](https://github.com/Mattbusel/llm-json) ·
+[llm-guard](https://github.com/Mattbusel/llm-guard) ·
+[llm-rag](https://github.com/Mattbusel/llm-rag) ·
+[llm-router](https://github.com/Mattbusel/llm-router) ·
+[llm-trace](https://github.com/Mattbusel/llm-trace)
 
-```bash
-cargo add proof-engine
-```
+## Quant and finance
 
-PBR lighting. RK4 attractors. Navier-Stokes fluids. Soft bodies. Rigid bodies. Shader graphs. GPU compute. Procedural audio. Behavior trees. GOAP. Terrain erosion. Weather. Economy. A scripting VM. Rollback netcode.
+| Repo | What it is |
+|---|---|
+| [fin-primitives](https://github.com/Mattbusel/fin-primitives) | Rust market primitives: price types, order book, OHLCV, indicators, position ledger, risk monitor. On [crates.io](https://crates.io/crates/fin-primitives). |
+| [crypto-orderbook](https://github.com/Mattbusel/crypto-orderbook) | Rust crypto order book engine with Binance WebSocket ingestion, Tokio and an Axum REST API. |
+| [Special-Relativity-in-Financial-Modeling](https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling) | C++20 implementation of special-relativistic geometry on OHLCV data: Lorentz factors, spacetime intervals, geodesic signals. |
+| [srfm-lab](https://github.com/Mattbusel/srfm-lab) · [srfm-python](https://github.com/Mattbusel/srfm-python) · [srfm-paper-impl](https://github.com/Mattbusel/srfm-paper-impl) | The SRFM family: research lab, Python SDK, and the reproducible paper repo. |
+| [fin-stream](https://github.com/Mattbusel/fin-stream) | Real-time market data streaming primitives in Rust. |
 
-Very normal amount of infrastructure for one person.
+## Engines and creative code
 
-## Research
+| Repo | What it is |
+|---|---|
+| [proof-engine](https://github.com/Mattbusel/proof-engine) | A mathematical rendering engine for Rust: every visual is the output of a mathematical function. `cargo add proof-engine` |
+| [chaos-rpg](https://github.com/Mattbusel/chaos-rpg) | A terminal roguelike where every outcome runs through a chain of 4 to 10 real mathematical algorithms. |
+| [geodesic-wallpaper](https://github.com/Mattbusel/geodesic-wallpaper) | Animated Windows desktop wallpaper that renders geodesic flows on curved surfaces, Rust and wgpu. |
+| [math-sonify](https://github.com/Mattbusel/math-sonify) | Real-time audio from dynamical systems (Lorenz, Rossler, Kuramoto, three-body) mapped to sound. |
 
-15 DOI-indexed papers under Oxidized Archive.
+## iOS apps, built on Windows
 
-Special relativity applied to financial time series. Token-level market signals. LLM interpretability. Counterfactual engineering. The usual LinkedIn content calendar.
+SwiftUI apps written on a Windows machine with no Mac. XcodeGen generates the project, and GitHub Actions macOS runners build, sign, screenshot and upload them to App Store Connect.
+
+| App | Repo | What it is |
+|---|---|---|
+| [Chain](https://apps.apple.com/app/id6814264554) | [chain](https://github.com/Mattbusel/chain) | Habit tracker that shows your year as a quilt of squares. |
+| [Ironbook](https://apps.apple.com/app/id6814264434) | [ironbook](https://github.com/Mattbusel/ironbook) | Workout log with your last session beside every set. |
+| [Quiver](https://apps.apple.com/app/id6814263466) | [quiver](https://github.com/Mattbusel/quiver) | Archer's notebook: arrow builds, FOC and printable sight tapes. |
+| [Baseline Ledger](https://apps.apple.com/app/id6813452278) | [baseline-ledger](https://github.com/Mattbusel/baseline-ledger) | Tennis practice journal and match stat book. |
+| [Fairway Ledger](https://apps.apple.com/app/id6813452174) | [fairway-ledger](https://github.com/Mattbusel/fairway-ledger) | Golf practice journal and stat book. |
+| [Pocket Beings](https://apps.apple.com/app/id6812787188) | [pocket-beings](https://github.com/Mattbusel/pocket-beings) | Seven tiny people in a pocket town who rob, bribe and run for office while you watch. |
+| [Clear the Strait](https://apps.apple.com/app/id6810644510) | [clear-the-strait](https://github.com/Mattbusel/clear-the-strait) | A tiny arcade game: he is stuck in the channel, shove him out. |
+
+Support and privacy pages for the apps live in [app-pages](https://github.com/Mattbusel/app-pages).
 
 ## Stack
 
-`Rust` `C++` `Python` `Tokio` `OpenGL` `WebAssembly` `CRDT` `MCP`
+`Rust` `Tokio` `C++20` `Python` `Swift` `SwiftUI` `wgpu` `WebAssembly` `GitHub Actions`
 
-## Find me
+## Elsewhere
 
-[TensoRust](https://tensorust-site.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matthewbusel/) · [Medium](https://medium.com/@mattbusel)
-
-New York
-
-If your AI has evidence, we can talk.
-
-If it has vibes, I will probably make a meme about it.
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattbusel&layout=compact&theme=tokyonight)](https://github.com/Mattbusel)
-
-[![GitHub Stars](https://img.shields.io/github/stars/Mattbusel?style=for-the-badge&logo=github&label=Total%20Stars&color=gold)](https://github.com/Mattbusel)
----
-
-
+[Tensorust](https://tensorust-site.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matthewbusel/) · [Medium](https://medium.com/@mattbusel)
