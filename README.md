@@ -4,6 +4,10 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국�
 
 I build LLM infrastructure in Rust and C++, quant tooling, math-driven engines, and iOS apps that I ship from a Windows PC. Founder of [Tensorust](https://tensorust-site.vercel.app/). New York.
 
+**Now:** [**O'BLOCK**](https://store.steampowered.com/app/5357680/?utm_source=github_profile), a sneaker-flipping game on my own Rust engine, is out free on Steam October 20 (English, 简体中文, 日本語, 한국어). One mechanic: you name a price, and the buyers lie. [Wishlist it on Steam](https://store.steampowered.com/app/5357680/?utm_source=github_profile).
+
+**Live experiment:** Claude runs my socials for two weeks. Can it make me famous? Results posted daily on [X](https://x.com/MattBusel).
+
 [![GitHub Stars](https://img.shields.io/github/stars/Mattbusel?style=flat&logo=github&label=total%20stars&color=gold)](https://github.com/Mattbusel?tab=repositories&sort=stargazers)
 
 **Hire me to build your app.** I design, build and ship native iOS apps and AI software for clients, from prototype to App Store launch. Fixed prices: prototype sprints from $9,500, App Store launches from $28,000, $225/hour for advisory.
